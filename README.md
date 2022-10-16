@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML | CSS | JavaScript | JAVA**
 
-- 📫 How to reach me **piyushtyagi.1856@gmail.com**
+- 📫 How to reach me **piyushtyagi28@hotmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1y9UBGaPEpqSIZj2k0gEqBeqLMbywtbem](https://drive.google.com/drive/u/0/folders/1y9UBGaPEpqSIZj2k0gEqBeqLMbywtbem)
 
