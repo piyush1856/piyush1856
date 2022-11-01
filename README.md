@@ -1,9 +1,11 @@
+<h1 align="center">Hi 👋, I'm Piyush Tyagi</h1>
+
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Piyush+Tyagi!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
 
 
-<h1 align="center">Hi 👋, I'm Piyush Tyagi</h1>
+
 <h3 align="center">A Creative And Diligent Aspiring Full-Stack Developer With A Specialization In Java Backend. Self-Believing And Enthusiastic, With A Keen Interest In Building And Designing Backend. Looking Forward To Sharpening My Skills In A Challenging Environment. I Guarantee Enthusiasm In Work And Fulfilling My Projects With Inexpressible Efforts.</h3>
 <img align ="right"alt="Coding"width=400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500">
 
