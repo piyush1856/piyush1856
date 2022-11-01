@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **piyushtyagi28@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1y9UBGaPEpqSIZj2k0gEqBeqLMbywtbem](https://drive.google.com/drive/u/0/folders/1y9UBGaPEpqSIZj2k0gEqBeqLMbywtbem)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1y9UBGaPEpqSIZj2k0gEqBeqLMbywtbem]
 
 - ⚡ Fun fact **I think I am funny.**
 
