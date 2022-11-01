@@ -35,7 +35,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/dipeshsingh253">
+  <a href="https://github.com/piyush1856">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=piyush1856&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1856&theme=gotham&hide_border=false" />
   </a>
