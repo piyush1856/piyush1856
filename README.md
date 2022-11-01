@@ -15,9 +15,9 @@
 
 
 - 🌱 I’m currently learning **SQL, RDBMS, Maven, Hibernate, JPA, SpringBoot, MVC, RESTFul web services,**
-- shop.com Is India's Largest Online Food And Grocery Store Tech Stack:- HTML, CSS,JavaScript [shop.com CLONE](https://darling-dieffenbachia-82281a.netlify.app/)
+- shop.com is an e-commerce website. Tech Stack:- HTML, CSS,JavaScript [shop.com CLONE](https://darling-dieffenbachia-82281a.netlify.app/)
 
-- indiegogo.com Connects Your Favorite Sales Tools Productive And Effective. Tech Stack:- HTML, CSS,JavaScript [indiegogocom CLONE](https://630b1f116d86c219229688db--phenomenal-meerkat-9d4c9f.netlify.app/)
+- indiegogo.com is an e-commerce website. Tech Stack:- HTML, CSS,JavaScript [indiegogo.com CLONE](https://630b1f116d86c219229688db--phenomenal-meerkat-9d4c9f.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://piyush1856.github.io/](https://piyush1856.github.io/)
 
@@ -82,7 +82,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FF9900.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF5733.svg?style=for-the-badge&logo=git&logoColor=white)
  
 
