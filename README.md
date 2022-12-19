@@ -54,6 +54,12 @@
   </a>
 </p>
   
+## Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-tyagi-308930246/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+
+</p>
 
 
 ## ✍️ Random Dev Quote
