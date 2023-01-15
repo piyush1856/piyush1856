@@ -46,13 +46,17 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF5733.svg?style=for-the-badge&logo=git&logoColor=white)
 
+                  
+<p id="gitStatis" align="center" style="color: #ce3509; height: 500px;width: 100%; ">
+            <img id="git2" style="color: #ce3509;margin-left: 8%;width: 1300px;height: 250px;"
+              src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1856&amp;"
+              alt="piyush1856" />
+              <img  id="git2" style="color: #ce3509;margin-left: 8%;width: 1300px;height: 250px;"
+              src="https://github-readme-stats.vercel.app/api?username=piyush1856&amp;show_icons=true&amp;locale=en"
+              alt="piyush1856" />
+         </p>                  
 
-<p align="center">
-  <a href="https://github.com/piyush1856">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=piyush1856&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1856&theme=gotham&hide_border=false" />
-  </a>
-</p>
+
   
 ## Connect with me:
 
