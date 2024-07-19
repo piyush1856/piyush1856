@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **SQL, RDBMS, Maven, Hibernate, JPA, SpringBoot, MVC, RESTFul web services,**
+- 🌱 I’m currently practicing **JAVA, SQL, RDBMS, Maven, Hibernate, JPA, SpringBoot, MVC, RESTFul web services,**
 - shop.com is an e-commerce website. Tech Stack:- HTML, CSS,JavaScript [shop.com CLONE](https://darling-dieffenbachia-82281a.netlify.app/)
 
 - indiegogo.com is an e-commerce website. Tech Stack:- HTML, CSS,JavaScript [indiegogo.com CLONE](https://630b1f116d86c219229688db--phenomenal-meerkat-9d4c9f.netlify.app/)
