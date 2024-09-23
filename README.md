@@ -2,30 +2,31 @@
 
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Piyush+Tyagi!;Learning+Java+Backend+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Piyush+Tyagi!;Shifting+Focus+to+Data+Science...📊;" style="width: 100%;">
 
-<h3 align="center">Aspiring Java Software Developer with a Passion for Backend Development. Committed to Crafting Efficient and Scalable Solutions.</h3>
+<h3 align="center">Aspiring Data Scientist and Java Backend Developer. Passionate about Analyzing Data and Building Robust Backends.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500">
+<img align="right" alt="Data Science" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush1856&label=Profile%20views&color=0e75b6&style=flat" alt="piyush1856" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush1856" alt="piyush1856" /></a> </p>
 
-- 🌱 I’m currently learning **Java, SQL, Python, Spring Boot, Hibernate, and Data Analysis.**
+- 🌱 Currently enhancing my skills in **Python, SQL, Data Analysis, and Machine Learning**, while maintaining my Java backend expertise.
   
-- 💬 Ask me about **Java, SQL, Python, Spring Boot, Data Analysis.**
+- 💬 Ask me about **Java, Spring Boot, Python, SQL, Data Visualization, and Statistical Analysis.**
 
 - 📫 Reach me at: [piyushtyagi28@hotmail.com](mailto:piyushtyagi28@hotmail.com)
 
 <h3 align="center">🛠 &nbsp;Tech Stack</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B) 
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 <p align="center" style="color: #ce3509;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1856&amp;" alt="piyush1856" />
@@ -89,4 +90,4 @@
 
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time!👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time!📊;" style="width: 100%;">
