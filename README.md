@@ -29,8 +29,11 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 
 ![piyush1856's Stats](https://github-readme-stats.vercel.app/api?username=piyush1856&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+>
 ![piyush1856's Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush1856&theme=vue-dark&hide_border=true)
+>
 ![piyush1856's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1856&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## 🧑‍💻 Experience
 
 **Data Science Enthusiast & Java Developer**  
