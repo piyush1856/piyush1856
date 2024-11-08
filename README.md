@@ -28,11 +28,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 
-<p align="center" style="color: #ce3509;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1856&amp;" alt="piyush1856" />
-    <img src="https://github-readme-stats.vercel.app/api?username=piyush1856&amp;show_icons=true&amp;locale=en" alt="piyush1856" />
-</p>
-
+![piyush1856's Stats](https://github-readme-stats.vercel.app/api?username=piyush1856&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![piyush1856's Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush1856&theme=vue-dark&hide_border=true)
+![piyush1856's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1856&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## 🧑‍💻 Experience
 
 **Data Science Enthusiast & Java Developer**  
