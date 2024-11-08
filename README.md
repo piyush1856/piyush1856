@@ -28,11 +28,19 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 
-![piyush1856's Stats](https://github-readme-stats.vercel.app/api?username=piyush1856&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
->
-![piyush1856's Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush1856&theme=vue-dark&hide_border=true)
->
-![piyush1856's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1856&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush1856&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="piyush1856's stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1856&theme=vue-dark&hide_border=true" alt="piyush1856's streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1856&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="piyush1856's top languages" />
+</p>
 
 ## 🧑‍💻 Experience
 
