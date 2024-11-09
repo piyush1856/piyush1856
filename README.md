@@ -43,6 +43,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1856&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="piyush1856's top languages" />
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=piyush1856&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1856&theme=tokyonight" />
+
+</p>
+
+<div align="center"  >
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=piyush1856&column=7&theme=onedark"" />
+  </a>
+<div>
+
 ## 🧑‍💻 Experience
 
 **Data Science Enthusiast & Java Developer**  
