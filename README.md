@@ -48,7 +48,7 @@
 
 ## 🧑‍💻 Experience
 
-**Data Science Enthusiast & Java Developer**  
+**Java Developer**  
 *Ompax Lifestyle Private Limited*  
 *Jan 2024 - May 2024*  
 - Developed data-driven solutions to optimize order management, reducing processing time by 40%.
