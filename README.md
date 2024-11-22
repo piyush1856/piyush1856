@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Piyush+Tyagi!;Exploring+Data+Science...📊;Turning+Data+into+Insights!;" style="width: 100%;">
 
-<h3 align="center">Data Scientist & Java Backend Developer. Passionate about Extracting Insights from Data and Building Scalable Solutions.</h3>
+<h3 align="center">Java Backend Developer & AI/ML Enthusiast. Passionate about Building Scalable Backend Solutions and  Extracting Insights from Data.</h3>
 
 <img align="right" alt="Data Science" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500">
 
@@ -60,6 +60,15 @@
 *Mar 2023 - Oct 2023*  
 - Spearheaded the launch of Growder's single-window solution for building materials.
 - Collaborated with cross-functional teams to ensure project success and client satisfaction.
+## 💻 Java Projects
+
+**User Management System**  
+- Developed a User Management module using Java and Spring Boot, improving authentication and authorization processes.
+- Reduced user access errors through role-based access control and enhanced data security.
+
+**Order Management System**  
+- Built a scalable backend for an Order Management System using Java, Spring Boot, and PostgreSQL.
+- Enhanced data processing speed by over 50% and integrated with third-party services for seamless order handling.
 
 ## 💻 Data Science Projects
 
@@ -74,16 +83,6 @@
 **[Business Case Netflix - Data Exploration and Visualization](https://tinyurl.com/business-case-netflix)**  
 - Explored and visualized Netflix's dataset to identify trends in content preferences.
 - Provided insights into content production strategies across different countries.
-
-## 💻 Java Projects
-
-**User Management System**  
-- Developed a User Management module using Java and Spring Boot, improving authentication and authorization processes.
-- Reduced user access errors through role-based access control and enhanced data security.
-
-**Order Management System**  
-- Built a scalable backend for an Order Management System using Java, Spring Boot, and PostgreSQL.
-- Enhanced data processing speed by over 50% and integrated with third-party services for seamless order handling.
 
 ## 🎓 Education
 
