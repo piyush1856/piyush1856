@@ -1,117 +1,118 @@
 <h1 align="center">Hi 👋, I'm Piyush Tyagi</h1>
 
-![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Piyush+Tyagi!;Exploring+Data+Science...📊;Turning+Data+into+Insights!;" style="width: 100%;">
-
-<h3 align="center">Java Backend Developer & AI/ML Enthusiast. Passionate about Building Scalable Backend Solutions and  Extracting Insights from Data.</h3>
-
-<img align="right" alt="Data Science" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush1856&label=Profile%20views&color=0e75b6&style=flat" alt="piyush1856" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush1856" alt="piyush1856" /></a> </p>
-
-- 🌱 Currently expanding my expertise in **Machine Learning, Data Analysis, Python, and SQL**, while maintaining a strong foundation in Java backend development.
-  
-- 💬 Ask me about **Data Science, Python, Machine Learning, Java, Spring Boot, and Statistical Analysis.**
-
-- 📫 Reach me at: [piyushtyagi28@hotmail.com](mailto:piyushtyagi28@hotmail.com)
-
-<h3 align="center">🛠 &nbsp;Tech Stack</h3>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B) 
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-
-### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush1856&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="piyush1856's stats" />
+  <img src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" alt="banner" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1856&theme=vue-dark&hide_border=true" alt="piyush1856's streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ff0000&size=20&center=true&vCenter=true&lines=Hey!+I'm+Piyush+Tyagi!;Backend+Engineer+%7C+GenAI+%7C+Data+Science+Enthusiast;Building+Smart+Systems+with+Code+and+AI!"/>
 </p>
 
+<h3 align="center">Backend Developer | GenAI & ML Enthusiast | Problem Solver | Sportsman 🏓</h3>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate Software Engineer working at the intersection of **backend systems, GenAI, and intelligent automation**.
+
+- 🧠 Building **Fynix**, an AI-powered coding assistant using **RAG, LangChain, LoRA/QLoRA**, and integrated IDE extensions.
+- 💻 Strong in **Java, Spring Boot, Python**, microservices, and cloud infrastructure (**AWS**, **GCP**).
+- 📊 Solved **300+ coding problems** and built products from **0 → 1** at early-stage startups.
+- 🏓 Represented **state-level U16** in **table tennis**—discipline & competitiveness fuel my dev journey.
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🚀 **Software Engineer – GenAI**  
+**Fynd (Fynix.ai)** | *Feb 2025 – Present*  
+- Built AI coding assistant for IntelliJ using **Java, Kotlin, and IntelliJ SDK**.  
+- Created vector-based indexing (Python, RAG) for LLM context awareness.  
+- Integrated GitHub, GitLab, Google Docs, BigQuery, and more via ETL pipelines.  
+- Set up observability (Prometheus, New Relic, Geckoboard → Slack at 9AM).  
+- Built AI workflows using **LangChain, LangGraph, LoRA/QLoRA**, OpenAI, Claude.  
+
+### 💡 **Java Developer**  
+**Ompax Lifestyle Pvt. Ltd.** | *Jan 2024 – Jan 2025*  
+- Reduced order processing time by **60%**, improved performance by **80%**.  
+- Designed secure **User Management** module (JWT, RBAC).  
+- Automated workflows across **warehouse, logistics, and design** departments.  
+- Built reusable APIs and integrated with **Shiprocket, Shopify**.  
+
+### 🛠 **Junior Software Engineer**  
+**Growder Technovations Pvt. Ltd.** | *Mar 2023 – Oct 2023*  
+- Launched **Growder.com** and **Inpackaging.com** (microservice backend).  
+- Managed team of 7+, improved system throughput by **30%**.  
+- Conducted user behavior analysis for product & marketing teams.
+
+---
+
+## 💻 Notable Projects
+
+- **Fynix (https://fynix.ai):** AI assistant IDE plugin w/ GenAI + RAG  
+- **Inpackaging (https://inpackaging.com):** B2B e-commerce backend lead  
+- **Growder (https://growder.com):** Full-featured materials marketplace  
+- **User Management System:** RBAC + JWT-based user control  
+- **Order Management System:** Scalable backend + payment API integration  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1856&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="piyush1856's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush1856&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1856&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1856&theme=vue-dark&layout=compact&hide_border=true" />
 </p>
 
-
-
-
-## 🧑‍💻 Experience
-
-**Java Developer**  
-*Ompax Lifestyle Private Limited*  
-*Jan 2024 - May 2024*  
-- Developed data-driven solutions to optimize order management, reducing processing time by 40%.
-- Designed a User Management module, cutting access errors by 50%.
-- Implemented security protocols to ensure data integrity and privacy.
-
-**Junior Software Engineer**  
-*Growder Technovations Private Limited*  
-*Mar 2023 - Oct 2023*  
-- Spearheaded the launch of Growder's single-window solution for building materials.
-- Collaborated with cross-functional teams to ensure project success and client satisfaction.
-## 💻 Java Projects
-
-**User Management System**  
-- Developed a User Management module using Java and Spring Boot, improving authentication and authorization processes.
-- Reduced user access errors through role-based access control and enhanced data security.
-
-**Order Management System**  
-- Built a scalable backend for an Order Management System using Java, Spring Boot, and PostgreSQL.
-- Enhanced data processing speed by over 50% and integrated with third-party services for seamless order handling.
-
-## 💻 Data Science Projects
-
-**[Business Case Yulu - Hypothesis Testing](https://tinyurl.com/business-case-yulu)**  
-- Conducted exploratory data analysis and hypothesis testing on shared electric cycle demand.
-- Utilized statistical techniques for strategic insights to improve Yulu's service delivery.
-
-**[Business Case Walmart - Confidence Interval and CLT](https://tinyurl.com/business-case-walmart)**  
-- Analyzed customer purchase behavior and applied statistical methods for actionable recommendations.
-- Focused on customer segmentation to provide insights into marketing strategies.
-
-**[Business Case Netflix - Data Exploration and Visualization](https://tinyurl.com/business-case-netflix)**  
-- Explored and visualized Netflix's dataset to identify trends in content preferences.
-- Provided insights into content production strategies across different countries.
+---
 
 ## 🎓 Education
 
-**Amity University, Noida**  
-*Master of Computer Application in Machine Learning and Artificial Intelligence*  
-*2024, 7.54 CGPA*
+🎓 **Amity University, Noida** – *MCA in ML & AI (2024)*  
+🎓 **Scaler Academy** – *DSML (2025)*  
+🎓 **BIT Mesra** – *BBA in Marketing & HR (2020)*  
+🎓 **Masai School** – *Full Stack Web Development (2023)*  
 
-**Scaler**  
-*Specialized in Data Science & Machine Learning*  
-*2025*
+---
 
-**Birla Institute of Technology, Mesra**  
-*Bachelor of Business Administration in Marketing and Human Resource Management*  
-*2020, 6.25 CGPA*
+## 🏅 Achievements
 
-## 🤝 Connect with Me
+- 🧠 Solved **300+ coding problems** across LeetCode, Codeforces, etc.  
+- 🏓 Represented **State-Level U16** in Table Tennis  
+- 🧠 Hands-on in Full Stack, Business Admin, and AI/ML systems  
+- 🥇 Led cross-functional teams from **day one** at two startup launches  
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-tyagi-308930246/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-  <a href="https://github.com/piyush1856"><img src="https://img.shields.io/badge/github-333333.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush-tyagi-308930246/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/piyush1856"><img src="https://img.shields.io/badge/github-333.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-## ✍️ Random Dev Quote
+---
 
-<br/>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
-<br />
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time!📊;" style="width: 100%;">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ff0000&size=20&lines=Thanks+for+visiting+my+profile!;See+you+next+time!+🚀;" />
+</p>
