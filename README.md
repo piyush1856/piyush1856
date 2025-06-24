@@ -38,7 +38,7 @@ I'm a passionate Software Engineer working at the intersection of **backend syst
 ## 💼 Experience
 
 ### 🚀 **Software Engineer – GenAI**  
-**Fynd (Fynix.ai)** | *Feb 2025 – Present*  
+**Fynd (Fynix.ai)** 
 - Built AI coding assistant for IntelliJ using **Java, Kotlin, and IntelliJ SDK**.  
 - Created vector-based indexing (Python, RAG) for LLM context awareness.  
 - Integrated GitHub, GitLab, Google Docs, BigQuery, and more via ETL pipelines.  
@@ -46,14 +46,14 @@ I'm a passionate Software Engineer working at the intersection of **backend syst
 - Built AI workflows using **LangChain, LangGraph, LoRA/QLoRA**, OpenAI, Claude.  
 
 ### 💡 **Java Developer**  
-**Ompax Lifestyle Pvt. Ltd.** | *Jan 2024 – Jan 2025*  
+**Ompax Lifestyle Pvt. Ltd.** 
 - Reduced order processing time by **60%**, improved performance by **80%**.  
 - Designed secure **User Management** module (JWT, RBAC).  
 - Automated workflows across **warehouse, logistics, and design** departments.  
 - Built reusable APIs and integrated with **Shiprocket, Shopify**.  
 
 ### 🛠 **Junior Software Engineer**  
-**Growder Technovations Pvt. Ltd.** | *Mar 2023 – Oct 2023*  
+**Growder Technovations Pvt. Ltd.**
 - Launched **Growder.com** and **Inpackaging.com** (microservice backend).  
 - Managed team of 7+, improved system throughput by **30%**.  
 - Conducted user behavior analysis for product & marketing teams.
